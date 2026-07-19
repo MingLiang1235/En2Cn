@@ -5,6 +5,4 @@
 <img src="./Screenshot.jpg" width="300" align="center">
 <br/>
  
- 欢迎使用。(点击右边栏的"Releases"/Click "Releases" in the right colume.)
- 
-原生发布地址：https://www.unicoder.cn/forum.php?mod=viewthread&tid=595&page=1&extra=#pid2472
+ 使用方法：点击右边栏的"Releases"/Click "Releases" in the right colume.
