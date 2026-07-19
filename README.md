@@ -6,3 +6,7 @@
 <br/>
  
  使用方法：点击右边栏的"Releases"/Click "Releases" in the right colume.
+
+由于检修，于本月19日23：29分暂停服务，进一步动向请关注本发布。
+
+感谢大家多日以来的支持。
